@@ -3,6 +3,9 @@
 
 In this project I have done a  Data Analysis to get the insights about the Job openings in Data Science Field. And also I have built a [DASHBOARD](https://public.tableau.com/views/HRJobRecruitment/HomePage?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to visually present the stats and summary about the Job market.
 
+[HR_JRDA_tableau ScreenRecord.webm](https://user-images.githubusercontent.com/79357446/230708180-8ed939f1-a18e-4870-993a-c95e2eaae134.webm)
+
+
 
 ## Project Goal
 
