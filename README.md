@@ -1,6 +1,3 @@
-# HR-Analytics
-
-
 # HR Job Recruitment Analysis 
 
 In this project I have done a  Data Analysis to get the insights about the Job openings in Data Science Field. And also I have built a [Dashboard](https://public.tableau.com/views/HRJobRecruitment/HomePage?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
