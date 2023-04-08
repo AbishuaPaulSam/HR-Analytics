@@ -1,7 +1,7 @@
+
 # HR Job Recruitment Analysis 
 
-In this project I have done a  Data Analysis to get the insights about the Job openings in Data Science Field. And also I have built a [Dashboard](https://public.tableau.com/views/HRJobRecruitment/HomePage?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
- to visually present the stats and summary about the Job market.
+In this project I have done a  Data Analysis to get the insights about the Job openings in Data Science Field. And also I have built a [DASHBOARD](https://public.tableau.com/views/HRJobRecruitment/HomePage?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to visually present the stats and summary about the Job market.
 
 
 ## Project Goal
@@ -11,6 +11,9 @@ The Goal of this project is to help a Job Consultancy Service get better underst
 
 
 The Data used in this project was available as CSV file.
+## DashBoard
+
+[Click here to view Dashboard](https://public.tableau.com/views/HRJobRecruitment/HomePage?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ## Tech 
 **SQL:** MySQL Workbench,
 **version:** 8.0.25
@@ -18,8 +21,13 @@ The Data used in this project was available as CSV file.
 **Dashboard:** Tableau Public,
 **version:** 2023.1.0
     
+## 🔗 Links to My Other Projects
+
+[Cricket World Cup Data Analysis](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis)
+
+[Sales Data Insights](https://github.com/AbishuaPaulSam/Sales-Data-Insights)
+
+[RFM Analysis](https://github.com/AbishuaPaulSam/RFM-Analysis)
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishua-paul-sam-38480a161/)
-
-
