@@ -23,6 +23,9 @@ The Data used in this project was available as CSV file.
 
 **Dashboard:** Tableau Public,
 **version:** 2023.1.0
+
+**Dashboard Designing:** Canva 
+
     
 ## 🔗 Links to My Other Projects
 
